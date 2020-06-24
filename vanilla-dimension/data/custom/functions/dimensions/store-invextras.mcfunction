@@ -1,4 +1,6 @@
 # This function copies the 4th row, armor and offhand items to the second chest.
+#
+# The project can be found here: https://github.com/kiweezi/vanilla-dimension
 # By Kiweezi
 
 # Increments a number variable to loop through the inventory.
