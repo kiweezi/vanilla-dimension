@@ -1,4 +1,5 @@
 # Vanilla Dimension
+
 A datapack to add a redstone dimension to a survival world.
 
 Adds functions to vanilla minecraft to allow a creative testing dimension in a survival world.
